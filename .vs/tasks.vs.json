@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-SwapTest",
+      "appliesTo": "tests/genericMethods/SwapTest.java",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-SwapTest",
+      "appliesTo": "tests/genericMethods/SwapTest.java",
+      "type": "launch"
+    }
+  ]
+}
